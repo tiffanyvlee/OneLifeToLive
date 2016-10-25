@@ -1,8 +1,0 @@
-sceneSetups:
-<<<<<<< HEAD
-- path: Assets/mswenson scene.unity
-=======
-- path: Assets/Opening Screen.unity
->>>>>>> 38dcf1d9e75bd7409dc5539f04263b7c9685bbea
-  isLoaded: 1
-  isActive: 1
