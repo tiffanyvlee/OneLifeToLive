@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
-using System.Collections;
-using UnityEngineIn; 
+using System.Collections; 
 
 public class GravityOff : MonoBehaviour {
 
