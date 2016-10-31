@@ -4,7 +4,7 @@ using System.Collections;
 public class start : MonoBehaviour {
 
 	public void LoadScene(string justin) {
-		UnityEngine.SceneManagement.SceneManager.LoadScene (1);
+		UnityEngine.SceneManagement.SceneManager.LoadScene (2);
 	}
 
 }

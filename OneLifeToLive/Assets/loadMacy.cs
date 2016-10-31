@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.SceneManagement; 
 
-public class LoadMacy : MonoBehaviour {
+public class loadMacy : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -12,7 +12,7 @@ public class LoadMacy : MonoBehaviour {
 	// Update is called once per frame
 
 		void OnTriggerEnter (Collider other) {
-			UnityEngine.SceneManagement.SceneManager.LoadScene (3);
+			UnityEngine.SceneManagement.SceneManager.LoadScene (4);
 
 		}
 	

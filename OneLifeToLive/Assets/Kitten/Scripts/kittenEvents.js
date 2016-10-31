@@ -15,3 +15,4 @@ function Update () {
 		GetComponent.<Animation>().Play("Meow");
 	}
 }
+
