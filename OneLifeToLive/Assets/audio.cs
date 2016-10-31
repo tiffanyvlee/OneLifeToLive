@@ -6,14 +6,6 @@ public class audio : MonoBehaviour {
 
 
 
-//
-//	void Start() {
-//		AudioSource audio = GetComponent<AudioSource>();
-//		audio.Play ();
-//
-//	}
-
-
 	bool AudioBegin = false; 
 
 	void Awake()
@@ -25,13 +17,13 @@ public class audio : MonoBehaviour {
 			AudioBegin = true;
 		} 
 	}
-	void Update () {
-		if(Application.loadedLevelName == "mainMenu")
-		{
-			AudioSource audio = GetComponent<AudioSource>();
-			audio.Stop();
-			AudioBegin = false; 
-		}
-	}
+//	void Update () {
+//		if(Application.loadedLevelName == "mainMenu")
+//		{
+//			AudioSource audio = GetComponent<AudioSource>();
+//			audio.Stop();
+//			AudioBegin = false; 
+//		}
+//	}
 
 }

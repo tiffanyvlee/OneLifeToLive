@@ -4,12 +4,9 @@ using UnityEngine.SceneManagement;
 
 public class gameOver : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
+
 	
-	}
-	
-	public void LoadScene(string introduction) {
+	public void LoadScene(string gameOver) {
 		UnityEngine.SceneManagement.SceneManager.LoadScene (6);
 
 	}
