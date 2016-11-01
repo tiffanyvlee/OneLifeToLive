@@ -13,8 +13,8 @@ TrueTypeFontImporter:
   - The Hundred King
   fallbackFontReferences: []
   customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
+  fontRenderingMode: 3
+  ascentCalculationMode: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

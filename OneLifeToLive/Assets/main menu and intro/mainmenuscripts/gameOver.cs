@@ -10,4 +10,6 @@ public class gameOver : MonoBehaviour {
 		UnityEngine.SceneManagement.SceneManager.LoadScene (6);
 
 	}
+
+
 }

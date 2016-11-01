@@ -12,7 +12,7 @@ public class loadMacy : MonoBehaviour {
 	// Update is called once per frame
 
 		void OnTriggerEnter (Collider other) {
-			UnityEngine.SceneManagement.SceneManager.LoadScene (4);
+			UnityEngine.SceneManagement.SceneManager.LoadScene (3);
 
 		}
 	
